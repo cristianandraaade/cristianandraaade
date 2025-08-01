@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1A1A1A,50:2E2E2E,100:4D4D4D&text=Cristian%20Andrade&section=header&reversal=false&textBg=false&desc=Desenvolvedor%20Back-end&descSize=40&descAlignY=65&fontColor=FFFFFF"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1A1A1A,50:2E2E2E,100:4D4D4D&text=Cristian%20Andrade&section=header&reversal=false&textBg=false&desc=Desenvolvedor%20Full-stack&descSize=40&descAlignY=65&fontColor=FFFFFF"/>
 
 ## 💻 Sobre:
 
@@ -15,6 +15,9 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 
 ## 📫 Contato:
 
